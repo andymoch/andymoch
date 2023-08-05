@@ -4,7 +4,7 @@
 - 🏃‍♂️💨 I’m currently working on my Earthquake Web Application
 - 🧑‍💻 Ask me about JS, TS, React, React-Native
 - ⚡ Fun fact: I actually enjoy writing README
-- 
+
 <!--
 **andymoch/andymoch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
