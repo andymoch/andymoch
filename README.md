@@ -1,7 +1,7 @@
 ### Hi there 👋🤠
 
 
-- 🏃‍♂️💨 I’m currently working on my Earthquake Web Application
+- 🏃‍♂️💨 I’m currently working on my Earthquake App
 - 🧑‍💻 Ask me about JS, TS, React, React-Native
 - ⚡ Fun fact: I actually enjoy writing README
 
