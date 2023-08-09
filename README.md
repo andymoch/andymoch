@@ -1,5 +1,5 @@
 
-## <div align="center">Hey, I'm Andy! A full stack software engineer focused on enhancing my front-end skills right now</div>  
+## <div align="center">Hey, I'm Andy! A full stack software engineer and currently focused on enhancing my front-end skills</div>  
   
 
 - 🖼️ I’m currently working on [Earthquake Alerter](https://github.com/ndmoc/Earthquake-Alerter)  
