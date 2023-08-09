@@ -73,4 +73,4 @@
 
 ----
 
-## Thanks for visiting! Check out my recent projects in the pinned section below.
+### Thanks for visiting! Check out my recent projects in the pinned section below.
