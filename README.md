@@ -1,5 +1,5 @@
 
-## <div align="center">Hey, I'm Andy! A full stack software engineer</div>  
+## <div align="center">Hey, I'm Andy!</div>  
 ### <div align="center">A full stack software engineer and currently focused on enhancing my front-end skills</div> 
   
 
@@ -73,5 +73,4 @@
 <br />
 
 ----
-
-### Thanks for visiting! Check out my recent projects in the pinned section below.
+### <div align="center">Thanks for visiting! Check out my recent projects in the pinned section below.</div> 
