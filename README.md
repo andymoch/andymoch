@@ -59,15 +59,6 @@
 
 <br/>  
 
-<div align="center"><p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ndmoc&show_icons=true&locale=en&layout=compact" alt="ndmoc" /></p>
-
-<p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=ndmoc&show_icons=true&locale=en" alt="ndmoc" /></p>
-
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=ndmoc&" alt="ndmoc" /></p>
-</div>  
-
-  
-
 <br/>  
 
 <div align="center">
