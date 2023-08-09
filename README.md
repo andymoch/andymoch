@@ -14,7 +14,7 @@
 <br/>  
 
 
-## My Skill Set  
+## Let's build together 
 <table><tr><td valign="top" width="33%">
 
 
@@ -57,19 +57,8 @@
 
 <br/>  
 
-
-## Let's Chat on LinkedIn
-<div align="center">
-<p align="center">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/andymoc/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/andymoc/" height="30" width="40" /></a>
-</p>
-</div>  
-  
-
 <br/>  
 
-
-## Let's build together  
 <div align="center"><p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ndmoc&show_icons=true&locale=en&layout=compact" alt="ndmoc" /></p>
 
 <p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=ndmoc&show_icons=true&locale=en" alt="ndmoc" /></p>
