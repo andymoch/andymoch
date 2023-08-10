@@ -1,5 +1,5 @@
 
-## <div align="center">Hey! I'm Andy, A full stack software engineer</div>  
+## <div align="center">Hey! I'm Andy, a full stack software engineer. </div>  
 ### <div align="center">I am currently focused on enhancing my front-end skills</div> 
   
 
