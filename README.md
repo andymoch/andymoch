@@ -33,7 +33,6 @@
 </td><td valign="top" width="33%">
 
 
-
 ### Backend  
 <div align="center">  
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
@@ -44,7 +43,6 @@
 </div>
 
 </td><td valign="top" width="33%">
-
 
 
 ### DevOps  
