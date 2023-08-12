@@ -6,10 +6,10 @@
 - 🖼️ I’m currently working on [Earthquake Alerter](https://github.com/ndmoc/Earthquake-Alerter)  
   
 
-- 🏃‍♂️💨 I’m currently learning Docker and Kubernetes  
+- 🏃‍♂️💨 I’m currently learning ... 
   
 
-- ⚡ Fun fact: I can write pretty compelling ReadMes  
+- ⚡ Fun fact: I can write pretty compelling ReadMes!  
   
 
 <br/>  
