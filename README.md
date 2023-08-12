@@ -18,7 +18,7 @@
 
 
 ## <div align="center">Let's build together </div> 
-<table><tr><td valign="top" width="33%">
+<table align="center"><tr><td valign="top" width="33%">
 
 
 
