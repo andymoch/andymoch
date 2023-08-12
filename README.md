@@ -1,16 +1,18 @@
 
-## <div align="center">Hey! I'm Andy, a full stack software engineer. </div>  
+### <div align="center">Hey! I'm Andy, a full stack software engineer. </div>  
 ### <div align="center">I am currently focused on enhancing my front-end skills</div> 
   
-
-- 🖼️ I’m currently working on [Earthquake Alerter](https://github.com/ndmoc/Earthquake-Alerter)  
+<div align="center">
+  
+ 🖼️ I’m currently working on [Earthquake Alerter](https://github.com/ndmoc/Earthquake-Alerter)  
   
 
-- 🏃‍♂️💨 I’m currently learning Docker
+ 🏃‍♂️💨 I’m currently learning Docker
   
 
-- ⚡ Fun fact: I can write pretty compelling ReadMes!  
+ ⚡ Fun fact: I can write pretty compelling ReadMes!  
   
+</div>
 
 <br/>  
 
@@ -20,7 +22,7 @@
 
 
 
-### Frontend  
+### <div align="center">  Frontend  
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
@@ -33,7 +35,7 @@
 </td><td valign="top" width="33%">
 
 
-### Backend  
+### <div align="center"> Backend  
 <div align="center">  
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
@@ -45,7 +47,7 @@
 </td><td valign="top" width="33%">
 
 
-### DevOps  
+### <div align="center"> DevOps  
 <div align="center">  
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
 <a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>  
