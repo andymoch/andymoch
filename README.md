@@ -14,12 +14,9 @@
   
 </div>
 
-<br/>  
-
 
 ## <div align="center">Let's build together </div> 
 <table align="center"><tr><td valign="top" width="33%">
-
 
 
 ### <div align="center">  Frontend  
@@ -56,21 +53,9 @@
 
 </td></tr></table>  
 
-<br/>  
-
-<br/>  
-
-<br/>  
-
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=ndmoc&&style=flat-square" align="center" />
 </div>  
   
-
-<br/>  
-
-
-<br />
-
 ----
 ### <div align="center">Thanks for visiting! Check out my recent projects in the pinned section below.</div> 
