@@ -7,7 +7,7 @@
  🖼️ I’m currently working on [Earthquake Alerter](https://github.com/ndmoc/Earthquake-Alerter)  
   
 
- 🏃‍♂️💨 I’m currently learning Docker
+ 🏃‍♂️💨 I’m currently learning Data Structures and Algos!
   
 
  ⚡ Fun fact: I can write pretty compelling ReadMes!  
