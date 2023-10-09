@@ -1,16 +1,15 @@
 
-### <div align="center">Hey! I'm Andy, a full stack software engineer </div>  
-### <div align="center">I am currently enhancing my front end skills</div> 
+### <div align="center">Hey, I'm Andy, a software engineer!</div>  
   
 <div align="center">
   
- 🖼️ I’m currently working on [Earthquake Alerter](https://github.com/ndmoc/Earthquake-Alerter)  
+ 🖼️ I’m currently creating an emergency alerter application 
   
 
- 🏃‍♂️💨 I’m currently learning Data Structures and Algos
+ 🏃‍♂️💨 I’m currently digging deep into Data Structures and Algos
   
 
- ⚡ Fun fact: I can write pretty compelling ReadMes
+ ⚡ Ask me about: How I make the best leftover burrito ever
   
 </div>
 
@@ -58,4 +57,4 @@
 </div>  
   
 ----
-### <div align="center">Thanks for visiting! Check out my recent projects in the pinned section below.</div> 
+### <div align="center">Thanks for visiting! Check out my recent applications in the pinned section below.</div> 
