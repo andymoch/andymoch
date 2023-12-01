@@ -51,10 +51,6 @@
 </div>
 
 </td></tr></table>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=ndmoc&&style=flat-square" align="center" />
-</div>  
   
 ----
 ### <div align="center">Thanks for visiting! Check out my recent applications in the pinned section below.</div> 
