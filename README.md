@@ -1,19 +1,6 @@
 
-### <div align="center">Hey, I'm Andy, a software engineer!</div>  
+### <div align="center">Hey, I'm Andy</div>  
   
-<div align="center">
-  
- 🖼️ I’m currently creating an emergency alerter application 
-  
-
- 🏃‍♂️💨 I’m currently digging deep into Data Structures and Algos
-  
-
- ⚡ Ask me about: How I make the best leftover burrito ever
-  
-</div>
-
-
 ## <div align="center">Let's build together </div> 
 <table align="center"><tr><td valign="top" width="33%">
 
